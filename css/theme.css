@@ -475,9 +475,10 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 		border-radius: 4px;
 		font-size: 12px;
 		font-style: normal;
-		font-weight: 400;
+		font-weight: 600;
 		line-height: 20px;
-		padding: 10px 23px;
+		opacity: .6;
+		padding: 10px 26px;
 		text-transform: uppercase;
 	}
 
@@ -505,7 +506,6 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 		display: block;
 		opacity: 0;
 		left: auto;
-		border-radius: 0 4px 4px;
 		border: 0;
 		border-top: 3px solid #CCC;
 		box-shadow: 0 20px 45px rgba(0, 0, 0, 0.08);
