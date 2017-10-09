@@ -165,12 +165,12 @@ p.drop-caps.drop-caps-style-2:first-letter {
 }
 
 ul.nav-pills > li.active > a {
-	opacity: 1;
+	background-color: #0088cc;
 }
 
 ul.nav-pills > li.active > a:hover,
 ul.nav-pills > li.active > a:focus {
-	opacity: 1;
+	background-color: #0088cc;
 }
 
 html ul.nav-pills-primary a {
@@ -3393,8 +3393,8 @@ html #header .header-top.header-top-primary .dropdown-menu a:focus {
 }
 
 html #header .header-top.header-top-secondary {
-	background: #e36159;
-	border-top-color: #df4c43;
+	background: #484a51;
+	border-top-color: #484a51;
 }
 
 html #header .header-top.header-top-secondary .header-nav-top ul > li.open > a {

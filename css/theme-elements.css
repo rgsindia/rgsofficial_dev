@@ -465,11 +465,11 @@ ul.narrow li a {
 }
 
 ul.nav-pills > li.active > a {
-	/*background-color: #CCC;*/
+	background-color: #CCC;
 }
 
 ul.nav-pills > li.active > a:hover, ul.nav-pills > li.active > a:focus {
-	/*background-color: #CCC;*/
+	background-color: #CCC;
 }
 
 /* Nav Pills */
@@ -6240,7 +6240,7 @@ section.timeline .timeline-box .owl-carousel {
 
 .social-icons li {
 	display: inline-block;
-	margin: -1px 1px 5px 0;
+	margin: 3px 3px 5px;
 	padding: 0;
 	border-radius: 100%;
 	overflow: visible;
