@@ -57,7 +57,7 @@
 	<body>
 		<div class="body">
 
-			<!--  Header from header.php  -->
+			<!--  Header from header.html  -->
 			<?php include_once "header.html"; ?>
 
 			<div role="main" class="main">
