@@ -41,11 +41,11 @@
 
       $this->options = array_merge(
       array(
-          'consumer_key'          => '',
-          'consumer_secret'       => '',
-          'access_token'          => '',
-          'access_token_secret'   => '',
-          'twitter_screen_name'   => '',
+          'consumer_key'          => 'nE8zk3TiNiPA9GDYBa0uLCBZP',
+          'consumer_secret'       => '91hSeaW57uhANtQxLb115DcySV3WE2QjhFTYYXPHO7zYu967Jv',
+          'access_token'          => '4031902572-xzbMdETS2SOyenNBS7tSSmY7SE4UfYzmpb1ytYh',
+          'access_token_secret'   => 'fRvq4xXOrl8PXP9W7Pk8VsacejpupU63jY6yJtbHTpct4',
+          'twitter_screen_name'   => 'regentekm',
           'cache_file'            => dirname(__FILE__) . '/cache/twitter.txt', // Where on the server to save the cached formatted tweets
           'cache_file_raw'        => dirname(__FILE__) . '/cache/twitter-array.txt', // Where on the server to save the cached raw tweets
           'cachetime'             => 60 * 60, // Seconds to cache feed (1 hour).

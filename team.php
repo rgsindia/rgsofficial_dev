@@ -81,9 +81,11 @@
 					<ul class="nav nav-pills sort-source" data-sort-id="team" data-option-key="filter">
 						<li data-option-value="*" class="active"><a href="#">Show All</a></li>
 						<li data-option-value=".leadership"><a href="#">Leadership</a></li>
-						<li data-option-value=".marketing"><a href="#">Marketing</a></li>
+						<li data-option-value=".management"><a href="#">Management</a></li>
 						<li data-option-value=".development"><a href="#">Development</a></li>
-						<li data-option-value=".design"><a href="#">Design</a></li>
+						<li data-option-value=".hr"><a href="#">HR</a></li>
+						<li data-option-value=".support"><a href="#">Support</a></li>
+						<li data-option-value=".systems"><a href="#">Systems</a></li>
 					</ul>
 
 					<hr>
@@ -98,50 +100,50 @@
 											<a href="about-me.html">
 												<img src="img/team/team-1.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">John Doe</span>
-													<span class="thumb-info-type">CEO</span>
+													<span class="thumb-info-inner">Geomon Joseph</span>
+													<span class="thumb-info-type">Director</span>
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
 											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
 											<span class="thumb-info-social-icons">
-												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a target="_blank" href="https://www.facebook.com/geomon.joseph.5"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
 												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
 											</span>
 										</span>
 									</span>
 								</li>
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="about-me.html">
 												<img src="img/team/team-2.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">Jessica Doe</span>
-													<span class="thumb-info-type">Marketing</span>
+													<span class="thumb-info-inner">Manoj George</span>
+													<span class="thumb-info-type">CEO & Director</span>
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
 											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
 											<span class="thumb-info-social-icons">
-												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a target="_blank" href="https://www.facebook.com/manoj.george.5439"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
 												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
 											</span>
 										</span>
 									</span>
 								</li>
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item management">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="about-me.html">
 												<img src="img/team/team-3.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">Rick Edward Doe</span>
-													<span class="thumb-info-type">Developer</span>
+													<span class="thumb-info-inner">Anil Nayak</span>
+													<span class="thumb-info-type">Manager - Operations</span>
 												</span>
 											</a>
 										</span>
@@ -155,56 +157,77 @@
 										</span>
 									</span>
 								</li>
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item design">
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="about-me.html">
 												<img src="img/team/team-4.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">Melinda Doe</span>
-													<span class="thumb-info-type">Design</span>
+													<span class="thumb-info-inner">Sreekumar S</span>
+													<span class="thumb-info-type">Project Lead</span>
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
 											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
 											<span class="thumb-info-social-icons">
-												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a target="_blank" href="https://www.facebook.com/sreekumar.suresh.3"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
 												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
 											</span>
 										</span>
 									</span>
 								</li>
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item support">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="about-me.html">
 												<img src="img/team/team-5.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">Robert Doe</span>
-													<span class="thumb-info-type">Design</span>
+													<span class="thumb-info-inner">Simy Thomas</span>
+													<span class="thumb-info-type">Admin Executive</span>
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
 											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
 											<span class="thumb-info-social-icons">
-												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a target="_blank" href="https://www.facebook.com/simy.thomas.1"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
 												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
 											</span>
 										</span>
 									</span>
 								</li>
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item systems">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="about-me.html">
 												<img src="img/team/team-6.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">Melissa Doe</span>
-													<span class="thumb-info-type">Marketing</span>
+													<span class="thumb-info-inner">Shijo Kurian</span>
+													<span class="thumb-info-type">Systems Engineer</span>
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="https://www.facebook.com/shijo.kurian.7444"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item systems">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="about-me.html">
+												<img src="img/team/team-6.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Febin Sajan</span>
+													<span class="thumb-info-type">Systems Engineer</span>
 												</span>
 											</a>
 										</span>
@@ -218,21 +241,42 @@
 										</span>
 									</span>
 								</li>
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item support">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="about-me.html">
 												<img src="img/team/team-7.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">Will Doe</span>
-													<span class="thumb-info-type">Developer</span>
+													<span class="thumb-info-inner">Abi Cherian</span>
+													<span class="thumb-info-type">Application Support Engineer</span>
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
 											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
 											<span class="thumb-info-social-icons">
-												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a target="_blank" href="https://www.facebook.com/abik.cherian"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item support">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="about-me.html">
+												<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Sudesh S</span>
+													<span class="thumb-info-type">Application Support Engineer</span>
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="https://www.facebook.com/sudesh728"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
 												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
 											</span>
@@ -245,8 +289,50 @@
 											<a href="about-me.html">
 												<img src="img/team/team-8.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">Jerry Doe</span>
-													<span class="thumb-info-type">Developer</span>
+													<span class="thumb-info-inner">Praveen S Nair</span>
+													<span class="thumb-info-type">Software Engineer</span>
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="https://www.facebook.com/enfieldhawk"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item hr">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="about-me.html">
+												<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Mary Reshma Xavier</span>
+													<span class="thumb-info-type">Admin Executive</span>
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="https://www.facebook.com/mary.reshma.92"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="about-me.html">
+												<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Sayan Mohsin</span>
+													<span class="thumb-info-type">Software Engineer</span>
 												</span>
 											</a>
 										</span>
@@ -254,6 +340,48 @@
 											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
 											<span class="thumb-info-social-icons">
 												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item support">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="about-me.html">
+												<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Gilt George</span>
+													<span class="thumb-info-type">Application Support Executive</span>
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="https://www.facebook.com/giltgeorge91"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item support">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="about-me.html">
+												<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Thomas N Rarichan</span>
+													<span class="thumb-info-type">Application Support Executive</span>
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccumsan.</span>
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="https://www.facebook.com/profile.php?id=100001897110853"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
 												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
 											</span>

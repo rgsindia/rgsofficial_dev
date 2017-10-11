@@ -10,7 +10,7 @@
 
 		<meta name="keywords" content="RegentGlobalServices RGS" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
-		<meta name="author" content="okler.net">
+		<meta name="author" content="rgsindia praveennair sayanmohsin">
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
@@ -343,7 +343,7 @@
 					</div>
 				</section>
 				
-				<section class="section section-no-border section-default m-none pt-xlg" id="demos">
+				<!-- <section class="section section-no-border section-default m-none pt-xlg" id="demos">
 					<div class="container-fluid sample-item-container">
 						<div class="row">
 				
@@ -637,7 +637,7 @@
 				
 					</div>
 					
-					<!-- Coming Soon -->
+					<! Coming Soon >
 					<ul class="hidden" id="comingSoon">
 						<li class="col-sm-6 col-md-4 isotope-item">
 							<div class="sample-item sample-item-coming-soon">
@@ -652,7 +652,7 @@
 						</li>
 					</ul>
 				
-					<!-- Main Demos -->
+					<! Main Demos >
 					<ul class="hidden" id="mainDemo">
 						<li class="col-sm-6 col-md-4 isotope-item">
 							<div class="sample-item">
@@ -1093,7 +1093,7 @@
 						</div>
 					</div>
 				
-					<!-- Shop Demos -->
+					<! Shop Demos >
 					<ul class="hidden" id="shopDemo">
 				
 						<li class="col-sm-6 col-md-4 isotope-item">
@@ -1792,7 +1792,7 @@
 							</ul>
 						</div>
 					</div>
-				</section>
+				</section> -->
 				<section class="section section-background section-text-light section-center mt-none mb-xl pb-none" style="background-image: url('img/parallax-5.jpg'); background-position: 50% -100px;">
 					<div class="container">
 						<div class="row">

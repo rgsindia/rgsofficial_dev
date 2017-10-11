@@ -3587,7 +3587,7 @@ html.dark .text-muted {
 }
 
 #footer .container .row > div {
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 }
 
 #footer .container input:focus {
@@ -3766,7 +3766,7 @@ html.dark .text-muted {
 	background: #060606;
 	border-top: 4px solid #060606;
 	margin-top: 40px;
-	padding: 30px 0 10px;
+	padding: 20px 0 10px;
 }
 
 #footer .footer-copyright nav {
