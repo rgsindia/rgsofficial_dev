@@ -21,6 +21,8 @@
 
 		<!-- Web Fonts  -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display:300,400,500,600,700,800" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:300,400,500,600,700,800" rel="stylesheet">
 
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">

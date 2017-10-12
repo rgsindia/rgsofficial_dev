@@ -20,7 +20,11 @@
 		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Lato:300,400,500,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:300,400,500,600,700,800" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet">
 
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
@@ -2231,7 +2235,8 @@
 
 				</div>
 
-				<section class="section section-background section-text-light section-center mt-xl mb-none" style="background-image: url('img/parallax-2.jpg'); background-position: 50% -100px;">
+				<section class="section parallax section-background section-text-light section-parallax section-center mt-xl mb-none"  style="position: relative; overflow: hidden;" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="img/parallax-2.jpg">
+					<div class="parallax-background" style="background-image: url("img/parallax-2.jpg"); background-size: cover; position: absolute; top: 0px; left: 0px; width: 100%; height: 180%; transform: translate3d(0px, -2px, 0px); background-position-x: 50%;"></div>
 					<div class="container">
 						<div class="row">
 							<div class="col-md-10 col-md-offset-1">
