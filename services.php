@@ -12,39 +12,7 @@
 		<meta name="description" content="Porto - Responsive HTML5 Template">
 		<meta name="author" content="okler.net">
 
-		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-
-		<!-- Mobile Metas -->
-		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
-
-		<!-- Vendor CSS -->
-		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="vendor/animate/animate.min.css">
-		<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
-		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
-
-		<!-- Theme CSS -->
-		<link rel="stylesheet" href="css/theme.css">
-		<link rel="stylesheet" href="css/theme-elements.css">
-		<link rel="stylesheet" href="css/theme-blog.css">
-		<link rel="stylesheet" href="css/theme-shop.css">
-
-		<!-- Skin CSS -->
-		<link rel="stylesheet" href="css/skins/default.css">
-
-		<!-- Theme Custom CSS -->
-		<link rel="stylesheet" href="css/custom.css">
-
-		<!-- Head Libs -->
-		<script src="vendor/modernizr/modernizr.min.js"></script>
+		<?php include_once "includes.html"; ?>
 
 	</head>
 	<body>
@@ -79,14 +47,14 @@
 					<h2>Our <strong>Services</strong></h2>
 
 					<div class="row">
-						<div class="col-md-10">
+						<div class="col-md-12">
 							<p class="lead">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla non pulvinar. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut eu risus enim, ut pulvinar lectus. Sed hendrerit nibh metus.
+							Regent Global Services (India) Pvt. Ltd has always believed in diversity, over time we have steadily increased the number of our clients, and also the types of services that we perform. They have been in existence in the market for many years and has emerged as a leading provider of business services to various industries.
 							</p>
 						</div>
-						<div class="col-md-2">
+						<!-- <div class="col-md-2">
 							<a href="#" class="btn btn-lg btn-primary mt-xl pull-right">Contact Us!</a>
-						</div>
+						</div> -->
 					</div>
 
 					<hr>

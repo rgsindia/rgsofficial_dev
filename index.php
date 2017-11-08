@@ -12,50 +12,8 @@
 		<meta name="description" content="Porto - Responsive HTML5 Template">
 		<meta name="author" content="rgsindia praveennair sayanmohsin">
 
-		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-
-		<!-- Mobile Metas -->
-		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-		<!-- Web Fonts  -->
-		<link href="https://fonts.googleapis.com/css?family=Lato:300,400,500,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
-		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:300,400,500,600,700,800" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800" rel="stylesheet">
-
-		<!-- Vendor CSS -->
-		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="vendor/animate/animate.min.css">
-		<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
-		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
-
-		<!-- Theme CSS -->
-		<link rel="stylesheet" href="css/theme.css">
-		<link rel="stylesheet" href="css/theme-elements.css">
-		<link rel="stylesheet" href="css/theme-blog.css">
-		<link rel="stylesheet" href="css/theme-shop.css">
-
-		<!-- Current Page CSS -->
-		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
-		<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
-		<link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
-		<link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css">
-
-		<!-- Skin CSS -->
-		<link rel="stylesheet" href="css/skins/skin-corporate-5.css">
-		<link rel="stylesheet" href="css/skins/default.css">
-
-		<!-- Theme Custom CSS -->
-		<link rel="stylesheet" href="css/custom.css">
-
-		<!-- Head Libs -->
-		<script src="vendor/modernizr/modernizr.min.js"></script>
+		<?php include_once "includes.html"; ?>
+		<!-- <link rel="stylesheet" href="css/skins/skin-corporate-5.css"> -->
 
 	</head>
 	<body>
@@ -2106,7 +2064,7 @@
 									<i class="fa fa-check text-color-primary"></i>
 								</div>
 								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">HTML5+JS+CSS+SCSS</strong></h4>
+									<h4 class="pt-xs">Digital Services</h4>
 								</div>
 							</div>
 						</div>
@@ -2116,7 +2074,7 @@
 									<i class="fa fa-check text-color-primary"></i>
 								</div>
 								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Bootstrap 3+</strong></h4>
+									<h4 class="pt-xs">Cloud Services</h4>
 								</div>
 							</div>
 						</div>
@@ -2126,7 +2084,7 @@
 									<i class="fa fa-check text-color-primary"></i>
 								</div>
 								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Wide & Boxed Layouts</strong></h4>
+									<h4 class="pt-xs">Technology Solutions</h4>
 								</div>
 							</div>
 						</div>
@@ -2136,49 +2094,7 @@
 									<i class="fa fa-check text-color-primary"></i>
 								</div>
 								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Dark & Light Versions</strong></h4>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="row mb-xl">
-						<div class="col-md-3">
-							<div class="feature-box feature-box-style-6">
-								<div class="feature-box-icon">
-									<i class="fa fa-check text-color-primary"></i>
-								</div>
-								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Blog Pages <span class="font-size-xs"><small>(Not Functional)</small></span></strong></h4>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="feature-box feature-box-style-6">
-								<div class="feature-box-icon">
-									<i class="fa fa-check text-color-primary"></i>
-								</div>
-								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Shop Pages <span class="font-size-xs"><small>(Not Functional)</small></span></strong></h4>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="feature-box feature-box-style-6">
-								<div class="feature-box-icon">
-									<i class="fa fa-check text-color-primary"></i>
-								</div>
-								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">RTL Support</strong></h4>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="feature-box feature-box-style-6">
-								<div class="feature-box-icon">
-									<i class="fa fa-check text-color-primary"></i>
-								</div>
-								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">SEO Optimized</strong></h4>
+									<h4 class="pt-xs">Business Operations</h4>
 								</div>
 							</div>
 						</div>
@@ -2190,7 +2106,7 @@
 									<i class="fa fa-check text-color-primary"></i>
 								</div>
 								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Google Fonts Support</strong></h4>
+									<h4 class="pt-xs">Artifial Intelligence</h4>
 								</div>
 							</div>
 						</div>
@@ -2200,7 +2116,7 @@
 									<i class="fa fa-check text-color-primary"></i>
 								</div>
 								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Amazing Plugins</strong></h4>
+									<h4 class="pt-xs">Internet of Things<!-- <span class="font-size-xs"><small>(Not Functional)</small></span>--></h4>
 								</div>
 							</div>
 						</div>
@@ -2210,7 +2126,7 @@
 									<i class="fa fa-check text-color-primary"></i>
 								</div>
 								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Premium Resources</strong></h4>
+									<h4 class="pt-xs">Insights &	Analytics</h4>
 								</div>
 							</div>
 						</div>
@@ -2220,7 +2136,49 @@
 									<i class="fa fa-check text-color-primary"></i>
 								</div>
 								<div class="feature-box-info">
-									<h4 class="pt-xs"><strong class="semi-bold">Skin Generator</strong></h4>
+									<h4 class="pt-xs">Mobility</h4>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row mb-xl">
+						<div class="col-md-3">
+							<div class="feature-box feature-box-style-6">
+								<div class="feature-box-icon">
+									<i class="fa fa-check text-color-primary"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="pt-xs">Product Engineering</h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="feature-box feature-box-style-6">
+								<div class="feature-box-icon">
+									<i class="fa fa-check text-color-primary"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="pt-xs">Educational Services</h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="feature-box feature-box-style-6">
+								<div class="feature-box-icon">
+									<i class="fa fa-check text-color-primary"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="pt-xs">Premium Resources</h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="feature-box feature-box-style-6">
+								<div class="feature-box-icon">
+									<i class="fa fa-check text-color-primary"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="pt-xs">Utilities</h4>
 								</div>
 							</div>
 						</div>
